@@ -1,0 +1,5 @@
+// Prompt the user for their name
+var userName = prompt("Enter your name:");
+
+// Display a greeting in the console
+console.log("Hello, " + userName + "! Welcome to the JavaScript world!");
